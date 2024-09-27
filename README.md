@@ -11,7 +11,7 @@ Languages and Tools:
 How to reach me:
 davidfemiaryee@gmail.com
 
-![Design and Development][![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-654)](https://github.com/anuraghazra/github-readme-stats)
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-654)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
